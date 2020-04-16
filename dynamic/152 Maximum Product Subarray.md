@@ -1,10 +1,3 @@
----
-categories: leetcode
-tags: leetcode
----
-
-
-
 ## 152 Maximum Product Subarray
 
 * **description**
